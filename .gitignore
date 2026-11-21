@@ -1,0 +1,7 @@
+/dist/
+/PartyIcons/
+/assets/PartyIcons/
+*.gba
+*.sav
+*.exe
+*.pdb
